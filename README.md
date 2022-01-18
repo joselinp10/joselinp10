@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joselinp10 and I am currently a senior at Thomas Edison CTE High School.
+- 👋 Hi, I’m @joselinp10 and I am currently a senior at Thomas Edison CTE High School in the Web Development program.
 - 👀 I’m interested in coding and web design.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on projects such as websites.
