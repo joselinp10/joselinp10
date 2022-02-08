@@ -4,6 +4,9 @@ body {
   border:#c6e2ff dashed;
   font-family: 'Poppins', sans-serif;
 }
-h2,li{
+h2{
+  text-align:center;
+}
+ul{
   text-align:center;
 }
