@@ -4,3 +4,6 @@ body {
   border:#c6e2ff dashed;
   font-family: 'Bree Serif', serif;
 }
+h2,li{
+  text-align:center;
+}
